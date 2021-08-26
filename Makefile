@@ -12,7 +12,7 @@ vim: vim/install_awesome_vimrc.sh
 > cp -r vim/ ~/.vim_runtime/
 > ~/.vim_runtime/install_awesome_vimrc.sh
 
-bash: bash/.bashrc
+bash: bash/bashrc
 > @echo "Installing bash config"
-> cp bash/.bashrc ~/.bashrc
+> cp bash/bashrc ~/.bashrc
 > source ~/.bashrc
